@@ -1,0 +1,64 @@
+{
+  "vagas": [
+    {
+      "id": 2,
+      "nome": "Dev Back",
+      "foto": "foto2.jpg",
+      "reqObg": "3 ano de experiencia na area",
+      "reqDes": "Conhecimento em ambas linguagens",
+      "descricao": "Trabalhar com HTML e CSS",
+      "salario": "1000",
+      "local": "Sp/Cotia"
+    },
+    {
+      "id": 3,
+      "nome": "Dev Front/Back end",
+      "foto": "foto3.jpg",
+      "reqObg": "2 ano de experiencia na area",
+      "reqDes": "Conhecimento do Java",
+      "descricao": "Trabalhar com Java",
+      "salario": 6000,
+      "local": "SP/Cotia"
+    },
+    {
+      "id": "4",
+      "nome": "Ezequiel",
+      "foto": "foto3.jpg",
+      "reqObg": "Js",
+      "reqDes": "IEFIEWJF",
+      "descricao": "eefwehbfbw",
+      "salario": "20000",
+      "local": "Sp/Cotia"
+    },
+    {
+      "id": "5",
+      "nome": "Dev Android",
+      "foto": "foto2.jpg",
+      "reqObg": "Js",
+      "reqDes": "php",
+      "descricao": "Trabalhar com HTML e CSS",
+      "salario": "5000",
+      "local": "Sp/Cotia"
+    },
+    {
+      "id": "6",
+      "nome": "Dev Back",
+      "foto": "foto2.jpg",
+      "reqObg": "Mysql",
+      "reqDes": "1 Ano de experiencia",
+      "descricao": "Trabalhar com HTML e CSS",
+      "salario": "10000",
+      "local": "Sp/Cotia"
+    },
+    {
+      "id": "7",
+      "nome": "Ezequiel",
+      "foto": "foto3.jpg",
+      "reqObg": "Js",
+      "reqDes": "Conhecimento em ambas linguagens",
+      "descricao": "Trabalhar com HTML e CSS",
+      "salario": "5000",
+      "local": "Sp/Cotia"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.lista-vagas{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+     
+}
+.lista-vagas .card{
+    margin: 5px 10px;
+    height: auto;
+    border: 4px solid lightsteelblue;
+    border-radius: 4px;
+    padding: .5rem;
+}
